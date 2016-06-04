@@ -1,2 +1,1 @@
-# maps
-ZEDx Maps
+# ZEDx Maps
